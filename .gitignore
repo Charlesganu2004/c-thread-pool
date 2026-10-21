@@ -1,0 +1,10 @@
+*.o
+*.obj
+thread_pool_demo
+thread_pool_demo.exe
+tp_tsan
+tp_asan
+tests/destroy_race
+tests/destroy_race_asan
+tests/destroy_race_tsan
+.vscode/
